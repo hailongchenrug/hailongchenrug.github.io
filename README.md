@@ -4,8 +4,7 @@
 
 
 
-
-
+<!--
 [ ] abi
 * [ ] glr
 * [ ] linprog via convex conjugate
@@ -41,5 +40,5 @@ C = D * L * L' * D
 
 could be interesting to see whether that covers the space, maybe look at spectrum
   
-  </div>
+-->
 
