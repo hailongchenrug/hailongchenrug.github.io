@@ -1,9 +1,5 @@
 # Click: [hailongchenrug.github.io](https://hailongchenrug.github.io/)
 
-<div style="display:none">
-
-
-
 <!--
 [ ] abi
 * [ ] glr
