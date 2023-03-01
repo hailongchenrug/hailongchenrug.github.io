@@ -1,4 +1,12 @@
-* [ ] abi
+# Click: [chenhailonghit.github.io](https://chenhailonghit.github.io/)
+
+<div style="display:none">
+
+
+
+
+
+[ ] abi
 * [ ] glr
 * [ ] linprog via convex conjugate
 * [ ] add link to Krylov for projected gradient descent
@@ -32,3 +40,6 @@ C = D * L * L' * D
 ```
 
 could be interesting to see whether that covers the space, maybe look at spectrum
+  
+  </div>
+
